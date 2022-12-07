@@ -75,7 +75,7 @@
                                 end
                                 end)
                                 
-                                   loadstring(game:HttpGet("https://raw.githubusercontent.com/methazine/dahoodathins/main/dahooddictionary"))()
+                                   loadstring(game:HttpGet("https://raw.githubusercontent.com/alive5m/bible2/main/dhh"))()
                                    
 
 
