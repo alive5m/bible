@@ -1,4 +1,4 @@
- local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/methazine/dahoodathins/main/aimfunction2", true))()
+ local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/alive5m/bible3/main/dhhhh", true))()
                             Aiming.TeamCheck(false)
                              
                             
